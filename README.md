@@ -1,5 +1,5 @@
 # golang_exercises
-Go Language Exercises
+# Go Language Exercises
 This repository contains a collection of exercises for learning and practicing Go programming language. 
 Each exercise is designed to test your understanding of a particular concept in Go, and comes with a set of test cases that you can run to check your solutions.
 
