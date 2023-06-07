@@ -6,7 +6,7 @@ import (
 	"os"
 )
 
-const defaultProblemFileName = "01-Quiz/problems.csv" // Const is a way to define variable as global and defualt. (imutaple var)
+const defaultProblemFileName = "01-Quiz/problems.csv" // Const is a way to define variable as global and defualt.
 
 func main() {
 
