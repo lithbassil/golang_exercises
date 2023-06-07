@@ -76,10 +76,7 @@ func main() {
 
 }
 
-// func startTimer() {
-// 	time.Sleep(30 * time.Second)
 
-// }
 
 func startQuiz(records [][]string) chan bool {
 	done := make(chan bool)
@@ -98,8 +95,5 @@ func startQuiz(records [][]string) chan bool {
 				correctAnswers++
 			}
 		}
-		done <- true
-
-	}()
-	return done
+	}
 }
